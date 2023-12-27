@@ -41,6 +41,7 @@ To use the Simple AI Chatbot, follow these steps:
     ```bash
     python main.py
     ```
+![image](https://github.com/pyserve/Simple_AI_Chatbot/assets/35804798/aef2c3fc-ae41-4ab6-bb30-d43ebea27dd9)
 
 2. **Interact with the chatbot:**
     - Follow the prompts to engage in a conversation with the Simple AI Chatbot.
