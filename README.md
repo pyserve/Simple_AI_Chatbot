@@ -1,4 +1,5 @@
 # Simple AI Chatbot
+![image](https://github.com/pyserve/Simple_AI_Chatbot/assets/35804798/d77881a6-bb5c-477d-8587-2b61ef8e5bf3)
 
 ## Description
 `Simple AI Chatbot` is a Python-based chatbot model implemented using TensorFlow Keras Sequential model. The project includes modules for data extraction, data preprocessing, and a chatbot model. Also, facilitate the prompt-based interaction with chatbot and user.
